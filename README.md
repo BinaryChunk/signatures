@@ -1,5 +1,5 @@
 # signatures
-An HTML Signatures for use in OSX Mail
+How to create HTML Signatures for use in OSX Mail
 
 Create simple temporary signature in mail preferences "this is a temp sig"
 this will cause file creation of unique signature file here:
