@@ -1,4 +1,4 @@
-# HTML Signatures for use in OSX Mail
+# HTML Signatures in OSX Mail
 How to create HTML Signatures for use in OSX Mail
 
 Create simple temporary signature in mail preferences "this is a temp sig"
